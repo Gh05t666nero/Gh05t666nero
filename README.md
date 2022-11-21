@@ -2,7 +2,7 @@
   <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
 </a>
 <div align="center">
-	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!" /></h1>
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Ojan!" /></h1>
   <br />
 	<p>Designs, coding, and writes about IT Security, ethics, research, and dev.</p>
 	<br />
@@ -13,18 +13,18 @@
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
 	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
   <br />
-	<a href="https://github.com/zidansec"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
-	<a href="mailto:zidansec@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" /></a>
-	<a href="https://t.me/@zidans_ra"><img src="https://img.shields.io/badge/Telegram-@zidans_ra-e06c75?style=social&logo=telegram" /></a>
-	<a href="https://youtube.com/channel/UCo6KfMw8dOZ4QGNL1RrjsBQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" /></a>
+	<a href="https://github.com/Gh05t666nero"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
+	<a href="mailto:ojancode@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" /></a>
+	<a href="https://t.me/ojan"><img src="https://img.shields.io/badge/Telegram-@zidans_ra-e06c75?style=social&logo=telegram" /></a>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" /></a>
 	<br />
   <h5>
-    <code><a href="https://www.facebook.com/zidan.xploit" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
-    <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-    <code><a href="https://wa.me/6289656181337" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
-    <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <code><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
+    <code><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+    <code><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
+    <code><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br /><br />
-    <code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
+    <code><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
   </h5>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=zidansec&count_private=true&show_icons=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true&line_height=18layout=compact" />
   <!-- wi*quL3fcV -->
